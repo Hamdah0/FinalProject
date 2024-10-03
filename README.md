@@ -49,3 +49,4 @@ while still using Gradio for the interface.
 ![2024-10-03 09-49-01](https://github.com/user-attachments/assets/f42664f8-7aba-4e1a-b176-e8865da0d43d)
 
 ### Video recording
+https://youtu.be/ZpryB2n2g-8

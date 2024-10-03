@@ -41,7 +41,7 @@ https://www.deepl.com/en/translator
 The model was too big to use on Google Colab and huggingface without paying, so I decided to commit to my idea and find a guide to do it locally,
 while still using Gradio for the interface.
 
-## Some other images outputs
+## Some images outputs
 ![2024-10-03 10-07-51](https://github.com/user-attachments/assets/f7c8e6e8-7b1e-4bf7-ae2c-60b0e0fc7d48)
 
 ![2024-10-03 10-43-41](https://github.com/user-attachments/assets/fa6d5885-6a76-4765-bcdd-de8fd739adde)

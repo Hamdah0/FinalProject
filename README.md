@@ -9,7 +9,7 @@ The output should be the generated image.
 ![Screenshot 2024-10-03 123340](https://github.com/user-attachments/assets/4d760bdd-5768-4b51-9711-a8a84c50f8d4)
 
 ## Model Choices
-# Flux.1 Scnell
+### Flux.1 Scnell
 I used this model becuase it's the corrent prefer one with the AI comunnity.
 Firstly it's an open source model, -not the DEV version- that you can easily use in your own machine.
 It produces amazing results from its high image quality, to its advanced human anatomy, to its textures and speed time.
